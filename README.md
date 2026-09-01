@@ -1,7 +1,7 @@
 # Khushnuma Sales | Interactive React Website 🛍️✨
-web page link - kushum-sales.vercel.app
+web page link - [kushum-sales.vercel.app](https://kushum-sales.vercel.app/)
 
-An interactive, high-converting React web application created for **Khushnuma Sales** ([@khushnumasales](https://www.instagram.com/khushnumasales/)), an ethnic & festive fashion boutique located in Firozpur Jhirka, Haryana.
+An interactive, high-converting React web application created for **Khushnuma Sales** ([@khushnumasales], an ethnic & festive fashion boutique located in Firozpur Jhirka, Haryana.
 
 ![Khushnuma Sales Banner]<img width="1361" height="642" alt="image" src="https://github.com/user-attachments/assets/31e82d20-b287-4b63-b86e-68fe39580e42" />
 
